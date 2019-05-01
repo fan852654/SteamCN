@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SteamKitForCN", "WindowsFormsApp1\SteamKitForCN.csproj", "{38C67CA4-FEF0-495B-A881-D08B336201DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38C67CA4-FEF0-495B-A881-D08B336201DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38C67CA4-FEF0-495B-A881-D08B336201DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38C67CA4-FEF0-495B-A881-D08B336201DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38C67CA4-FEF0-495B-A881-D08B336201DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7234AFE0-2BFA-4CBB-AD6B-6D28F8C0D515}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,16 @@
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe.config
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.exe
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\bin\Release\WindowsFormsApp1.pdb
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SteamKitForCN.csproj.ResolveComReference.cache
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.ChangeSetSteam.resources
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.FreeZeren.resources
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.NeedConf.resources
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.NotAdminisortoRun.resources
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.Result.resources
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SteamKitForCN.csproj.GenerateResource.Cache
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SteamKitForCN.csproj.CoreCompileInputs.cache
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.exe
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\WindowsFormsApp1.pdb
+C:\Users\root\OneDrive\WindowsFormsApp1\WindowsFormsApp1\obj\Release\SteamKitForCN.csprojResolveAssemblyReference.cache
